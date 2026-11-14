@@ -1,0 +1,14 @@
+{
+  "name": "linkedin-profile-scraper-no-login",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Get public LinkedIn profile data from a list of profile links: name, headline, about, location, followers, experience and education. No LinkedIn account, no session cookie, no browser extension.",
+  "scripts": {
+    "start": "node example.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT"
+}
