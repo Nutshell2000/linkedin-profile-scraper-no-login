@@ -1,6 +1,6 @@
 # LinkedIn Profile Scraper (no login, no cookies)
 
-Get public LinkedIn profile data from a list of profile links: name, headline, about, location, followers, experience and education. No LinkedIn account, no session cookie, no browser extension.
+Get full public LinkedIn profile data from a list of profile links: headline, current job and company, every position with title and dates, education with degrees, skills, languages, certifications, awards and websites. No LinkedIn account, no session cookie, no browser extension.
 
 This repo is a working example of calling the [LinkedIn Profile Scraper](https://apify.com/spellzcode/linkedin-profile-data) Apify actor from Node.js, Python, or without code. The actor runs on Apify's cloud; you pay per result and Apify's free plan includes $5 of monthly credit.
 
@@ -135,7 +135,7 @@ All fields are described on the actor's **Input** tab.
 
 ## Price
 
-$3 per 1,000 profiles returned; refused or unavailable profiles are free. Apify's paid plans get 10% to 30% off. Each run also has Apify's standard $0.00005 start charge.
+$2 per 1,000 profiles returned (half the price of the most used LinkedIn profile scraper on Apify); refused or unavailable profiles are free. Apify's paid plans get 10% to 30% off. Each run also has Apify's standard $0.00005 start charge.
 
 ## Limits
 
